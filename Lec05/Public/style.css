@@ -1,0 +1,18 @@
+#aa{
+    color: rgb(45, 238, 45);
+    border: 1px solid rgb(46, 240, 46);
+}
+
+#bb{
+    color: orange;
+    border: 1px solid orange;
+}
+#cc{
+    color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+#ab{
+    text-align: center;
+    font-size: x-large;
+}
